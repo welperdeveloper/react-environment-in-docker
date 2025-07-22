@@ -2,8 +2,6 @@
 
 Template for a developer environment for React and PrimeReact in Docker
 
-📅 **Current date:** Monday, July 21, 2025, 9:49 PM -03
-
 ---
 
 ## Overview
